@@ -1,13 +1,18 @@
 {
-    "name": "pratikodeme/php-sdk",
+    "name": "najafzadecom/pratik-odeme-php-sdk",
     "description": "Pratik Ödeme Kurumsal Cüzdan API üçün PHP SDK",
     "type": "library",
     "keywords": ["pratik", "ödeme", "payment", "api", "sdk", "kurumsal", "cüzdan", "wallet"],
+    "homepage": "https://github.com/najafzadecom/pratik-odeme-php-sdk",
+    "support": {
+        "issues": "https://github.com/najafzadecom/pratik-odeme-php-sdk/issues",
+        "source": "https://github.com/najafzadecom/pratik-odeme-php-sdk"
+    },
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Kamran Najafzade",
+            "email": "nadjafzadeh@gmail.com"
         }
     ],
     "require": {
