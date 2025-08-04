@@ -1,0 +1,26 @@
+# Vendor directory
+/vendor/
+
+# Composer files
+composer.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+/coverage/
+clover.xml
+
+# Log files
+*.log
+
+# Cache files
+.phpunit.cache
+.phpstan.cache
